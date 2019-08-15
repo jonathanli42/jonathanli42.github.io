@@ -1,0 +1,309 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"col",
+				"col-lg-5"
+			],
+			[
+				"inlin",
+				"inline\tdisplay"
+			],
+			[
+				"content",
+				"align-content\tproperty"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"grid-templ",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"text-dec",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"border-bottom",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"inline",
+				"inline-flex\tdisplay"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"nav",
+				"navbar-header"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: the",
+				"Package Control: Add Channel"
+			],
+			[
+				"packag",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jonat/website/src/components/Navigation/Navigation.js",
+		"/C/Users/jonat/Desktop/Navigation.js",
+		"/C/Users/jonat/website/public/index.html",
+		"/C/Users/jonat/website/src/App.css",
+		"/C/Users/jonat/website/src/index.css",
+		"/C/Users/jonat/website/package.json",
+		"/C/Users/jonat/website/src/typed1.js",
+		"/C/Users/jonat/website/src/typed.js",
+		"/C/Users/jonat/website/src/App.js",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/Personal Website/index.html",
+		"/C/Users/jonat/website/src/index.js",
+		"/C/Users/jonat/website/node_modules/jsdom/lib/jsdom/living/nodes/HTMLHyperlinkElementUtils-impl.js",
+		"/C/Users/jonat/node_modules/typed.js/lib/typed.js",
+		"/C/Users/jonat/website/src/logo.svg",
+		"/C/Users/jonat/OneDrive/Documents/App.css",
+		"/C/Users/jonat/website/components/Navigation/Navigation.js",
+		"/C/Users/jonat/personalwebsite/components/About/About.js",
+		"/C/Users/jonat/personalwebsite/src/App.css",
+		"/C/Users/jonat/personalwebsite/src/index.css",
+		"/C/Users/jonat/personalwebsite/public/index.html",
+		"/C/Users/jonat/personalwebsite/src/App.js",
+		"/C/Users/jonat/personalwebsite/components/Navigation/Navigation.js",
+		"/C/Users/jonat/personalwebsite/src/index.js",
+		"/C/Users/jonat/personalwebsite/src/Navigation.js",
+		"/C/Users/jonat/personalwebsite/components/Navigation/Title.js",
+		"/C/Users/jonat/personalwebsite/src/Title.js",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/Personal Website/style.css",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/Personal Website/app.js",
+		"/C/Users/jonat/Downloads/1a23a8669d4dfcb1c2de9eea5bae71b5-dba666030adea299a3ce3f296113a75835985167/1a23a8669d4dfcb1c2de9eea5bae71b5-dba666030adea299a3ce3f296113a75835985167/index.html",
+		"/C/Users/jonat/Downloads/1a23a8669d4dfcb1c2de9eea5bae71b5-dba666030adea299a3ce3f296113a75835985167/1a23a8669d4dfcb1c2de9eea5bae71b5-dba666030adea299a3ce3f296113a75835985167/script.js",
+		"/C/Users/jonat/Desktop/typed.js-master/app.js",
+		"/C/Users/jonat/Desktop/typed.js-master/index.html",
+		"/C/Users/jonat/Desktop/typed.js-master/lib/typed.js",
+		"/C/Users/jonat/Desktop/typed.js-master/lib/typed.min.js",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/grid/files_2.png",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/grid/desktop_analytics_2.png",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/grid/data_storage_2_2.png",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/grid/undraw.png",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/grid/server_safe_2.png",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/grid/server_3.png",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/grid/server_2_2.png",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/grid/monitor_settings_2.png",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/grid/monitor_coding_2.png",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/Landing Page/index.html",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/Landing Page/style.css",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/style.css",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/index.html",
+		"/C/Users/jonat/Downloads/index.html",
+		"/C/Users/jonat/Downloads/style.css",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/bootstrap1.html",
+		"/C/Users/jonat/Downloads/style (1).css",
+		"/C/Users/jonat/Downloads/index (1).html",
+		"/C/Users/jonat/OneDrive/Documents/Web Dev/Bootstrap Practice",
+		"/C/Users/jonat/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jonat/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/jonat/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/jonat/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 44.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
